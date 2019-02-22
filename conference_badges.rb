@@ -15,6 +15,7 @@ end
 #assign_rooms
 def assign_rooms(name_array)
   rooms_list = []
-  name_array.each_with_index 
+  name_array.each_with_index do |name, index|
+    
 end
     
